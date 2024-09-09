@@ -4,6 +4,8 @@
 
 Página creada con fines educativos utilizando Tailwind CSS y un mínimo de Vanilla JavaScript para la manipulación del objeto `tailwind.config` proporcionado por el CDN de tailwind, así como para la creación de CSS personalizado que admita todas las funcionalidades del framework.
 
+Ver [demo](https://tlapanco.github.io/tailwind-landingpage/)
+
 ## CAPTURAS
 
 <details>
