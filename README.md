@@ -13,32 +13,39 @@ Ver [demo](https://tlapanco.github.io/tailwind-landingpage/)
   
   - Home
   
-  ![Desktop-Home](https://github.com/user-attachments/assets/e0214cbf-5559-4031-aff3-73caae8c4ffc)
+  ![Desktop-Home](https://github.com/user-attachments/assets/893d4ebc-826d-4aca-baef-d2ec8dab1df1)
+
 
   - About Us
 
-  ![Desktop-AboutUs](https://github.com/user-attachments/assets/f1c696a4-21fb-4d13-8568-543df1a8df43)
+  ![Desktop-AboutUs](https://github.com/user-attachments/assets/7dbb731a-10a5-4954-80ea-1de49621bd8b)
+
 
   - Products
 
-  ![Desktop-Products](https://github.com/user-attachments/assets/449cb9b4-2340-47c4-aaeb-9d1c61c08ddb)
+  ![Desktop-Products](https://github.com/user-attachments/assets/d5cc69cd-5cac-45bf-9f09-ec567d98f14d)
+
 
 
 </details>
+
+
 
 <details>
   <summary> :iphone: Móvil</summary>
 
   - Home
 
-  ![Mobile-Home](https://github.com/user-attachments/assets/cda847ce-9591-4476-beac-00ca74e2c155)  
+  ![Mobile-Home](https://github.com/user-attachments/assets/ad83a20b-cddc-4d7f-97a2-ab605775cbb1)
 
   - About Us
 
-  ![Mobile-AboutUs](https://github.com/user-attachments/assets/508f25c9-7bac-48e2-9614-6938f493f2f0)
+  ![Mobile-AboutUs](https://github.com/user-attachments/assets/c1a1f543-e5f5-4d7f-84dd-d96f4c78f0b0)
+
   
   - Products
 
-  ![Mobile-Products](https://github.com/user-attachments/assets/d16b7358-6ad5-4352-aae2-e5ddb9b63678)
+  ![Mobile-Products](https://github.com/user-attachments/assets/91bf2ca1-6461-4499-af34-155943585a30)
+
   
 </details>
